@@ -1,6 +1,6 @@
-## Scraping quotes.toscrape.com/search.aspx
+## Automating quotes.toscrape.com/search.aspx
 
-Scraping the [quotes.toscrape.com/search.aspx](http://quotes.toscrape.com/search.aspx).\
+Automating and Scraping quotes from the [quotes.toscrape.com/search.aspx](http://quotes.toscrape.com/search.aspx).\
 [toscrape.com](https://toscrape.com/) websites are created specifically for scraping purposes and no persmission is needed for scraping them
 
 **Language used :**
