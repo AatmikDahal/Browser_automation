@@ -2,8 +2,8 @@
 finding the 'Please' buttom on the website and clicking the button via python program and going to a random useless website
 
 Langauge: 
-- [Python]('https://python.org/')
+- [Python](https://python.org/)
 
 Library:
-- [Selenium]("https://www.selenium.dev/") -> for automation
+- [Selenium](https://www.selenium.dev/) -> for automation
 
