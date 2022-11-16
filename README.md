@@ -3,7 +3,7 @@
 Browser Automation with [Python](https://www.python.org/)
 
 Using the following Libraries: 
-- [Selenium](https://www.selenium.dev/) -> Used to scraped websites with Javascript
+- [Selenium](https://www.selenium.dev/) -> Used for Browser Automation
 
 Websites used :
 - [quotes.toscrape.com/search.aspx](https://quotes.toscrape.com/search.aspx) (Javascript version of quotes.toscrape.com)
